@@ -29,6 +29,6 @@ Um sistema Full Stack moderno desenvolvido para auxiliar professores e coordenad
 
 ---
 ### **IA**
-*O sistema consome o modelo Gemini 2.5 Flash configurado para responder estritamente em formato estruturado (application/json). 
-*A IA atua como um assistente *pedagógico virtual, recebendo o escopo da aula e devolvendo um objeto padronizado contendo conteúdos sugeridos e tags temáticas
+* O sistema consome o modelo Gemini 2.5 Flash configurado para responder estritamente em formato estruturado (application/json). 
+* A IA atua como um assistente *pedagógico virtual, recebendo o escopo da aula e devolvendo um objeto padronizado contendo conteúdos sugeridos e tags temáticas
 
