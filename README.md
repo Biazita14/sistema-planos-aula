@@ -28,12 +28,7 @@ Um sistema Full Stack moderno desenvolvido para auxiliar professores e coordenad
 * **Tailwind CSS**: Framework utilitário para estilização rápida e moderna.
 
 ---
-
-## 🏗️ Como Rodar o Projeto Localmente
-
-### **Pré-requisitos**
-Antes de começar, certifique-se de ter instalado em sua máquina:
-* Python 3.10 ou superior
-* Node.js (gerenciador de pacotes npm)
-* Uma chave de API ativa do Google AI Studio
+### **IA**
+*O sistema consome o modelo Gemini 2.5 Flash configurado para responder estritamente em formato estruturado (application/json). 
+*A IA atua como um assistente *pedagógico virtual, recebendo o escopo da aula e devolvendo um objeto padronizado contendo conteúdos sugeridos e tags temáticas
 
